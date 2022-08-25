@@ -1,5 +1,6 @@
 body {
-   background-color: #e36161;
+   background: linear-gradient(to top, #cbf078 0%, #e46161 50%);
+   height: 100vh;
 }
 .container {
    display: block;
@@ -38,6 +39,7 @@ p {
 }
 .link:hover {
    text-decoration: underline;
+   color: #f8f398;
 }
 .link {
    margin: 0 15px;
